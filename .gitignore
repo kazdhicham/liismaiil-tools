@@ -1,0 +1,33 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# dependencies
+/node_modules
+
+/.pnp
+.pnp.js
+_*.txt
+# testing
+/.netlify/
+/coverage
+dashLiism
+dash*.json
+# next.js
+out
+config/
+config/*.json
+# production
+/build
+.next
+*.old
+# misc
+.DS_Store
+.vscode
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+*.json
+# local env files
+.env.local
+.env*
+.env.*
