@@ -1,0 +1,10 @@
+{
+  "name": "connexion-liismaiil",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "cham",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-ses": "^3.218.0"
+  }
+}
